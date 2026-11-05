@@ -1,0 +1,8 @@
+{
+  "versionCode": 303,
+  "versionName": "2.81",
+  "apk": "https://fastly.jsdelivr.net/gh/NYZ1108/course-assistant-release@v2.81/releases/course-assistant-v2.81.apk",
+  "page": "https://ghfast.top/https://raw.githubusercontent.com/NYZ1108/course-assistant-release/main/releases/course-assistant-v2.81.apk",
+  "notes": "修复和优化；如遇到安装失败，可打开浏览器下载页手动安装。",
+  "sha256": "f815ad0a263bf697e71a6ed18221a6800520dbd29f47f6651fcc844337b11b39"
+}
