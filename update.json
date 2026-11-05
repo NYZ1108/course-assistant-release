@@ -1,0 +1,8 @@
+{
+  "versionCode": 298,
+  "versionName": "2.76",
+  "apk": "https://raw.githubusercontent.com/NYZ1108/course-assistant-release/main/releases/course-assistant-v2.76.apk",
+  "page": "https://fastly.jsdelivr.net/gh/NYZ1108/course-assistant-release@main/releases/course-assistant-v2.76.apk",
+  "notes": "修复和优化；如遇到安装失败，可打开浏览器下载页手动安装。",
+  "sha256": "4750a91aeeb2098ad704233c51019f319ad14df49fdee2e88707b0551ced29ff"
+}
