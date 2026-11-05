@@ -1,0 +1,8 @@
+{
+  "versionCode": 301,
+  "versionName": "2.79",
+  "apk": "https://fastly.jsdelivr.net/gh/NYZ1108/course-assistant-release@v2.79/releases/course-assistant-v2.79.apk",
+  "page": "https://fastly.jsdelivr.net/gh/NYZ1108/course-assistant-release@v2.79/releases/course-assistant-v2.79.apk",
+  "notes": "修复和优化；如遇到安装失败，可打开浏览器下载页手动安装。",
+  "sha256": "b531c1a89956b448329595504cb31b19b5b1d7d245e688e3645cfe923d1d744f"
+}
