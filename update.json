@@ -1,0 +1,8 @@
+{
+  "versionCode": 306,
+  "versionName": "2.84",
+  "apk": "https://raw.githubusercontent.com/NYZ1108/course-assistant-release/main/releases/course-assistant-v2.84.apk",
+  "page": "https://ghfast.top/https://raw.githubusercontent.com/NYZ1108/course-assistant-release/main/releases/course-assistant-v2.84.apk",
+  "notes": "修复和优化；如遇到安装失败，可打开浏览器下载页手动安装。",
+  "sha256": "9896e83f7e1a4a9105af6494bc4b8fb6e160e303e608a9388e1de864eb6dc1b6"
+}
